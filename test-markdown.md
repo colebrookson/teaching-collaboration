@@ -1,3 +1,4 @@
 Some VERY important code
 
-The equation of a line is $y = mx + b$ 
+The equation of a line is in fact $$y = mx + b$$
+

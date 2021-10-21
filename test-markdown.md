@@ -1,1 +1,3 @@
-Some very important code
+Some VERY important code
+
+The equation of a line is $y = mx + b$ 

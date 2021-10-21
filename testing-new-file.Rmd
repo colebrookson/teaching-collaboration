@@ -1,9 +1,7 @@
 $y=mx+b$
 
-cbbrook's version:
-$ y 
-= 
-m 
-x  + 
-b
-$
+
+
+Cole's version:
+$$ y = mx + b $$
+

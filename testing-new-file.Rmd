@@ -1,4 +1,7 @@
 $y=mx+b$
 
+
+
 Cole's version:
 $$ y = mx + b $$
+
